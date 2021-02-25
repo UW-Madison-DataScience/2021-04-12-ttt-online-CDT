@@ -85,6 +85,13 @@ locations:
   teaching that. This workshop is based on the constantly revised and
   updated
  <a href="{{ site.training_site }}">curriculum</a>.
+</p>  
+ <p>
+  If you are interested in applying to take this training please submit an
+  <a href="https://forms.gle/VzFCBfGmhbwhLmrF9">application</a>.  We will
+  prioritize applications from UW-Madison affiliated individuals who have
+  helped with workshops before but will also admit others as space allows.
+  For early consideration please submit your application by March 15th.
 </p>
 
 <!--
