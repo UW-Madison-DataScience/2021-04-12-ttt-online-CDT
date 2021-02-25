@@ -4,7 +4,7 @@ root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 humandate: "April 12-14, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "Apr 12th (12:30pm - 5pm), Apr 13th(9am - 5pm), Apr 14th (9am - 12pm)"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humantime: "Apr 12th 12:30pm - 5pm, Apr 13th 9am - 5pm, Apr 14th 9am - 12pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-04-12      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-04-14        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Trisha Adamus", "Sarah Stevens"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
